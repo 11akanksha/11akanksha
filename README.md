@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=11akanksha&show_icons=true&locale=en" alt="11akanksha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11akanksha&" alt="11akanksha" /></p>
-Please ⭐ and show your ❤ towards me!
+Please ⭐ and show your ❤ towards me! 😄
