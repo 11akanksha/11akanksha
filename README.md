@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working to **improve my CP skills**
 
-- 🌱 I’m currently learning **Web Development, Data Science and Android APP development (if I get time!)**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **anything! Would love to help if I can.**
 
